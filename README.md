@@ -6,7 +6,7 @@ In a very simple way we can see a Perceptron as a neural network that has no hid
 It is used to represent the most basic case scenarios of neural networks.
 
 <p align="center">
-![Diagram](https://github.com/ryzenboi98/perceptron/blob/main/structure.png)
+  <img src="https://github.com/ryzenboi98/perceptron/blob/main/structure.png">
 </p>
 
 In the diagram above it is design the structure of the Perceptron implemented. 
