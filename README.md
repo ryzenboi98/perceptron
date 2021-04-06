@@ -13,7 +13,7 @@ In the diagram above it is designed the structure of the Perceptron implemented.
 
 The provided data for the training is ruled by the first input that is exacly the result of the expected output.
 
-That means that for the following example we would expect the following results:
+It means that for the following example we would expect the following results:
 ```
 [inputs] -> output
 [1, 0, 1] -> 1
