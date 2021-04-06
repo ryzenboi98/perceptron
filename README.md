@@ -9,7 +9,7 @@ It is used to represent the most basic case scenarios of neural networks.
   <img src="https://github.com/ryzenboi98/perceptron/blob/main/structure.png">
 </p>
 
-In the diagram above it is design the structure of the Perceptron implemented. 
+In the diagram above it is designed the structure of the Perceptron implemented. 
 
 The provided data for the training is ruled by the first input that is exacly the result of the expected output.
 
