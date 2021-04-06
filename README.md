@@ -14,7 +14,6 @@ In the diagram above it is designed the structure of the Perceptron implemented.
 The provided data for the training is ruled by the first input that is exacly the result of the expected output.
 
 It means that for the following example we would expect the following results:
-<p align="center">
 ```
 [inputs] -> output
 [1, 0, 1] -> 1
@@ -22,7 +21,6 @@ It means that for the following example we would expect the following results:
 [1, 1, 1] -> 1
 [0, 1, 0] -> 0
 ```
-</p>
 
 As we can see, it doesn't matter the value of the two second inputs the result is always the same value as the first input.
 
