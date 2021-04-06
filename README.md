@@ -11,7 +11,7 @@ It is used to represent the most basic case scenarios of neural networks.
 
 In the diagram above it is design the structure of the Perceptron implemented. 
 
-The provided data for the training it is ruled by the first input that is exacly the result of the expected output.
+The provided data for the training is ruled by the first input that is exacly the result of the expected output.
 
 That means that for the following example we would expect the following results:
 ```
